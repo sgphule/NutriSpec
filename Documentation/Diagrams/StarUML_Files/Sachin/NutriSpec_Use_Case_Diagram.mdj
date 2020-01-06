@@ -74,9 +74,9 @@
 											"font": "Arial;13;0",
 											"left": -192,
 											"top": -64,
-											"width": 80.9072265625,
+											"width": 99.67724609375,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from Nutritionist)"
 										},
 										{
 											"_type": "LabelView",
@@ -252,9 +252,9 @@
 											"font": "Arial;13;0",
 											"left": 183.3544921875,
 											"top": 16,
-											"width": 80.9072265625,
+											"width": 99.67724609375,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from Nutritionist)"
 										},
 										{
 											"_type": "LabelView",
@@ -451,9 +451,9 @@
 											"font": "Arial;13;0",
 											"left": 215.3544921875,
 											"top": 248,
-											"width": 80.9072265625,
+											"width": 99.67724609375,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from Nutritionist)"
 										},
 										{
 											"_type": "LabelView",
@@ -650,9 +650,9 @@
 											"font": "Arial;13;0",
 											"left": -504.6455078125,
 											"top": 40,
-											"width": 80.9072265625,
+											"width": 99.67724609375,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from Nutritionist)"
 										},
 										{
 											"_type": "LabelView",
@@ -849,9 +849,9 @@
 											"font": "Arial;13;0",
 											"left": -630.6455078125,
 											"top": 408,
-											"width": 80.9072265625,
+											"width": 99.67724609375,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from Nutritionist)"
 										},
 										{
 											"_type": "LabelView",
@@ -991,101 +991,6 @@
 							},
 							"extensionPointCompartment": {
 								"$ref": "AAAAAAFudSY7hG1d62Q="
-							}
-						},
-						{
-							"_type": "UMLIncludeView",
-							"_id": "AAAAAAFudTJOBXJvDkA=",
-							"_parent": {
-								"$ref": "AAAAAAFudR/weGo4R48="
-							},
-							"model": {
-								"$ref": "AAAAAAFudTJOBXJtcZk="
-							},
-							"subViews": [
-								{
-									"_type": "EdgeLabelView",
-									"_id": "AAAAAAFudTJOBXJwrSw=",
-									"_parent": {
-										"$ref": "AAAAAAFudTJOBXJvDkA="
-									},
-									"model": {
-										"$ref": "AAAAAAFudTJOBXJtcZk="
-									},
-									"visible": false,
-									"font": "Arial;13;0",
-									"left": 487,
-									"top": 171,
-									"height": 13,
-									"alpha": 1.5707963267948966,
-									"distance": 15,
-									"hostEdge": {
-										"$ref": "AAAAAAFudTJOBXJvDkA="
-									},
-									"edgePosition": 1
-								},
-								{
-									"_type": "EdgeLabelView",
-									"_id": "AAAAAAFudTJOBXJxLUc=",
-									"_parent": {
-										"$ref": "AAAAAAFudTJOBXJvDkA="
-									},
-									"model": {
-										"$ref": "AAAAAAFudTJOBXJtcZk="
-									},
-									"font": "Arial;13;0",
-									"left": 445,
-									"top": 171,
-									"width": 55.65625,
-									"height": 13,
-									"alpha": 1.5707963267948966,
-									"distance": 30,
-									"hostEdge": {
-										"$ref": "AAAAAAFudTJOBXJvDkA="
-									},
-									"edgePosition": 1,
-									"text": "«include»"
-								},
-								{
-									"_type": "EdgeLabelView",
-									"_id": "AAAAAAFudTJOBXJy5Wc=",
-									"_parent": {
-										"$ref": "AAAAAAFudTJOBXJvDkA="
-									},
-									"model": {
-										"$ref": "AAAAAAFudTJOBXJtcZk="
-									},
-									"visible": false,
-									"font": "Arial;13;0",
-									"left": 516,
-									"top": 170,
-									"height": 13,
-									"alpha": -1.5707963267948966,
-									"distance": 15,
-									"hostEdge": {
-										"$ref": "AAAAAAFudTJOBXJvDkA="
-									},
-									"edgePosition": 1
-								}
-							],
-							"font": "Arial;13;0",
-							"head": {
-								"$ref": "AAAAAAFudSP/5WqacgE="
-							},
-							"tail": {
-								"$ref": "AAAAAAFudSWr7GwCI+s="
-							},
-							"lineStyle": 1,
-							"points": "504:239;501:115",
-							"showVisibility": true,
-							"nameLabel": {
-								"$ref": "AAAAAAFudTJOBXJwrSw="
-							},
-							"stereotypeLabel": {
-								"$ref": "AAAAAAFudTJOBXJxLUc="
-							},
-							"propertyLabel": {
-								"$ref": "AAAAAAFudTJOBXJy5Wc="
 							}
 						},
 						{
@@ -1412,9 +1317,9 @@
 											"font": "Arial;13;0",
 											"left": -176,
 											"top": 304,
-											"width": 80.9072265625,
+											"width": 99.67724609375,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from Nutritionist)"
 										},
 										{
 											"_type": "LabelView",
@@ -1611,9 +1516,9 @@
 											"font": "Arial;13;0",
 											"left": -16,
 											"top": 336,
-											"width": 80.9072265625,
+											"width": 99.67724609375,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from Nutritionist)"
 										},
 										{
 											"_type": "LabelView",
@@ -1810,9 +1715,9 @@
 											"font": "Arial;13;0",
 											"left": 112,
 											"top": 240,
-											"width": 80.9072265625,
+											"width": 99.67724609375,
 											"height": 13,
-											"text": "(from Model1)"
+											"text": "(from Nutritionist)"
 										},
 										{
 											"_type": "LabelView",
@@ -3583,7 +3488,7 @@
 									"font": "Arial;13;0",
 									"left": 681.5,
 									"top": 255,
-									"width": 121.744140625,
+									"width": 121,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFvJKZjj+N4NA8="
@@ -3973,7 +3878,7 @@
 									"font": "Arial;13;0",
 									"left": 81.5,
 									"top": 487.5,
-									"width": 199.1982421875,
+									"width": 198,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFvJKZjj+OOg30="
@@ -4172,7 +4077,7 @@
 									"font": "Arial;13;0",
 									"left": 731.5,
 									"top": 491.5,
-									"width": 171.052734375,
+									"width": 170,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFvJKZjj+OZkEQ="
