@@ -190,23 +190,14 @@
 								{
 									"_type": "EdgeLabelView",
 									"_id": "AAAAAAFvJXrPfOjVv8g=",
-									"_parent": {
-										"$ref": "AAAAAAFvJXrPfOjUQh0="
-									},
-									"model": {
-										"$ref": "AAAAAAFvJXrPfOjTyGs="
-									},
 									"font": "Arial;13;0",
 									"left": 232,
 									"top": 231,
-									"width": 113.45166015625,
+									"width": 105.80908203125,
 									"height": 13,
 									"autoResize": true,
 									"alpha": -1.9731187129842023,
 									"distance": 102.15674231297707,
-									"hostEdge": {
-										"$ref": "AAAAAAFvJXrPfOjUQh0="
-									},
 									"edgePosition": 1,
 									"text": "Click sign up button"
 								},
@@ -314,7 +305,7 @@
 											"font": "Arial;13;1",
 											"left": 422.177734375,
 											"top": 187,
-											"width": 101.13720703125,
+											"width": 90.2890625,
 											"height": 13,
 											"text": "Add user details"
 										},
@@ -349,7 +340,7 @@
 									"font": "Arial;13;0",
 									"left": 417.177734375,
 									"top": 180,
-									"width": 111.13720703125,
+									"width": 100.2890625,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFvJXyJm+jq+z4="
@@ -369,7 +360,7 @@
 							"containerChangeable": true,
 							"left": 417.177734375,
 							"top": 180,
-							"width": 111.13720703125,
+							"width": 100.2890625,
 							"height": 41,
 							"autoResize": true,
 							"nameCompartment": {
@@ -417,7 +408,7 @@
 											"font": "Arial;13;1",
 											"left": 472.003662109375,
 											"top": 308,
-											"width": 72.9853515625,
+											"width": 66.52978515625,
 											"height": 13,
 											"text": "Create User"
 										},
@@ -452,7 +443,7 @@
 									"font": "Arial;13;0",
 									"left": 467.003662109375,
 									"top": 301,
-									"width": 82.9853515625,
+									"width": 76.52978515625,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFvJX0ecOkEmZQ="
@@ -472,7 +463,7 @@
 							"containerChangeable": true,
 							"left": 467.003662109375,
 							"top": 301,
-							"width": 82.9853515625,
+							"width": 76.52978515625,
 							"height": 41,
 							"autoResize": true,
 							"nameCompartment": {
@@ -595,7 +586,7 @@
 								"$ref": "AAAAAAFvJXnyOei5lrE="
 							},
 							"lineStyle": 3,
-							"points": "416:300;422:286;422:261;422:236;443:221",
+							"points": "416:300;422:286;422:261;422:236;440:221",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAFvJ9dNW/KkPo4="
@@ -784,7 +775,7 @@
 								"$ref": "AAAAAAFvJX2eOekdIk4="
 							},
 							"lineStyle": 3,
-							"points": "508:271;508:271;508:286;508:300",
+							"points": "508:271;508:271;508:286;506:300",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAFvJ9eUCPLGBho="
@@ -1057,9 +1048,9 @@
 								"$ref": "AAAAAAFvJXrPfOjTyGs="
 							},
 							"font": "Arial;13;0",
-							"left": 232,
+							"left": 236,
 							"top": 231,
-							"width": 113.45166015625,
+							"width": 105.80908203125,
 							"height": 13,
 							"autoResize": true,
 							"alpha": -1.9731187129842023,
@@ -14891,7 +14882,7 @@
 											"font": "Arial;13;1",
 											"left": 244,
 											"top": 151,
-											"width": 106.28515625,
+											"width": 116.29541015625,
 											"height": 13,
 											"text": "Search Nutritionist"
 										},
@@ -14922,7 +14913,7 @@
 									"font": "Arial;13;0",
 									"left": 239,
 									"top": 144,
-									"width": 116.28515625,
+									"width": 126.29541015625,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFvKGUcDvMyI9o="
@@ -14942,7 +14933,7 @@
 							"containerChangeable": true,
 							"left": 239,
 							"top": 144,
-							"width": 116.28515625,
+							"width": 126.29541015625,
 							"height": 41,
 							"autoResize": true,
 							"nameCompartment": {
@@ -15048,7 +15039,7 @@
 								"$ref": "AAAAAAFvKGUcDvMwA7Q="
 							},
 							"lineStyle": 1,
-							"points": "298:185;300:223",
+							"points": "301:185;301:223",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAFvKGY98fOV6hU="
@@ -15099,7 +15090,7 @@
 											"font": "Arial;13;1",
 											"left": 265,
 											"top": 289,
-											"width": 68.224609375,
+											"width": 73.455078125,
 											"height": 13,
 											"text": "View Profile"
 										},
@@ -15130,7 +15121,7 @@
 									"font": "Arial;13;0",
 									"left": 260,
 									"top": 282,
-									"width": 78.224609375,
+									"width": 83.455078125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFvKGY+7/PST3g="
@@ -15150,7 +15141,7 @@
 							"containerChangeable": true,
 							"left": 260,
 							"top": 282,
-							"width": 78.224609375,
+							"width": 83.455078125,
 							"height": 41,
 							"autoResize": true,
 							"nameCompartment": {
@@ -15240,7 +15231,7 @@
 								"$ref": "AAAAAAFvKGY9iPOQlu4="
 							},
 							"lineStyle": 1,
-							"points": "301:243;299:281",
+							"points": "301:243;301:281",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAFvKGY/SvPp2vs="
@@ -15428,7 +15419,7 @@
 								"$ref": "AAAAAAFvKGTzfvMqREw="
 							},
 							"lineStyle": 1,
-							"points": "300:107;298:143",
+							"points": "301:107;301:143",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAFvKGhMTPQkC78="
@@ -15633,7 +15624,7 @@
 								"$ref": "AAAAAAFvKGY+7/PQxG4="
 							},
 							"lineStyle": 1,
-							"points": "299:323;301:359",
+							"points": "301:323;301:359",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAFvKGou2fRPRxM="
@@ -16092,6 +16083,19 @@
 							"width": 60,
 							"height": 38,
 							"text": "[Not decided]"
+						},
+						{
+							"_type": "UMLNoteView",
+							"_id": "AAAAAAFvjFqDetnPm4w=",
+							"_parent": {
+								"$ref": "AAAAAAFvKGB56vMcyXs="
+							},
+							"font": "Arial;13;0",
+							"left": 328,
+							"top": 32,
+							"width": 70,
+							"height": 51,
+							"text": "Client Signed In"
 						}
 					]
 				}
